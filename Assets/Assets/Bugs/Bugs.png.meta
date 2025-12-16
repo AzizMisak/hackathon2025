@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 54fb52e0bb660f74ea173c1b0cf39abe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7385085746842954004
+    second: Bugs_0
+  - first:
+      213: -6068800229937506907
+    second: Bugs_1
+  - first:
+      213: 6222437612026494144
+    second: Bugs_2
+  - first:
+      213: -3061388134898156023
+    second: Bugs_3
+  - first:
+      213: 6351398621837459943
+    second: Bugs_4
+  - first:
+      213: 284249341607015628
+    second: Bugs_5
+  - first:
+      213: 1275260744627055720
+    second: Bugs_6
+  - first:
+      213: 1761782823767430363
+    second: Bugs_7
+  - first:
+      213: -4613869824450455376
+    second: Bugs_8
+  - first:
+      213: -1226838974335746304
+    second: Bugs_9
+  - first:
+      213: -6059342234707258246
+    second: Bugs_10
+  - first:
+      213: -8654683488254825159
+    second: Bugs_11
+  - first:
+      213: -2903834119547075962
+    second: Bugs_12
+  - first:
+      213: 2505563302360493376
+    second: Bugs_13
+  - first:
+      213: -1419040257214296830
+    second: Bugs_14
+  - first:
+      213: 3883210760348653416
+    second: Bugs_15
+  - first:
+      213: -7756116953975871062
+    second: Bugs_16
+  - first:
+      213: -7713147497535513538
+    second: Bugs_17
+  - first:
+      213: 214328767523344071
+    second: Bugs_18
+  - first:
+      213: 2122102972155526588
+    second: Bugs_19
+  - first:
+      213: 6727501028442376675
+    second: Bugs_20
+  - first:
+      213: 6414971441708822327
+    second: Bugs_21
+  - first:
+      213: -6181772922510048896
+    second: Bugs_22
+  - first:
+      213: -3033818343924431911
+    second: Bugs_23
+  - first:
+      213: 8327365952193272371
+    second: Bugs_24
+  - first:
+      213: 261653128420789930
+    second: Bugs_25
+  - first:
+      213: 811183907494111285
+    second: Bugs_26
+  - first:
+      213: 5798554190144953942
+    second: Bugs_27
+  - first:
+      213: 166906136333603215
+    second: Bugs_28
+  - first:
+      213: 969541056748856308
+    second: Bugs_29
+  - first:
+      213: 1860853691054816677
+    second: Bugs_30
+  - first:
+      213: -8510596818708818918
+    second: Bugs_31
+  - first:
+      213: -2392374884463079998
+    second: Bugs_32
+  - first:
+      213: -410077778269662583
+    second: Bugs_33
+  - first:
+      213: 6695787092078833804
+    second: Bugs_34
+  - first:
+      213: -7737957473088456066
+    second: Bugs_35
+  - first:
+      213: -4719343354281589824
+    second: Bugs_36
+  - first:
+      213: 4543792263551239942
+    second: Bugs_37
+  - first:
+      213: -2872045342050174935
+    second: Bugs_38
+  - first:
+      213: 1428763320132284440
+    second: Bugs_39
+  - first:
+      213: -7897789064520029430
+    second: Bugs_40
+  - first:
+      213: -1188260639021457381
+    second: Bugs_41
+  - first:
+      213: -1745275328013273131
+    second: Bugs_42
+  - first:
+      213: -4051135561494887836
+    second: Bugs_43
+  - first:
+      213: 2453374094322632111
+    second: Bugs_44
+  - first:
+      213: -2032380369587359755
+    second: Bugs_45
+  - first:
+      213: 3594171428881461058
+    second: Bugs_46
+  - first:
+      213: -5565222486878388298
+    second: Bugs_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bugs_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 674
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce610af14a7e28990800000000000000
+      internalID: -7385085746842954004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 674
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a514c1485a47cba0800000000000000
+      internalID: -6068800229937506907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 674
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc7edd4a0a8a5650800000000000000
+      internalID: 6222437612026494144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 674
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ebcc316b3c385d0800000000000000
+      internalID: -3061388134898156023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_4
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 674
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e107893563b42850800000000000000
+      internalID: 6351398621837459943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_5
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 674
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4ff1a254bd1f300800000000000000
+      internalID: 284249341607015628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_6
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 674
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cee7ff3e2a2b110800000000000000
+      internalID: 1275260744627055720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_7
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 674
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4da06d42c137810800000000000000
+      internalID: 1761782823767430363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_8
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 674
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b89cb907dd38ffb0800000000000000
+      internalID: -4613869824450455376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_9
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 674
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ffc12f37469fee0800000000000000
+      internalID: -1226838974335746304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_10
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 674
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7490cf5754e8eba0800000000000000
+      internalID: -6059342234707258246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_11
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 674
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93de12fc83364e780800000000000000
+      internalID: -8654683488254825159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 578
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682ccb1e04283b7d0800000000000000
+      internalID: -2903834119547075962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_13
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 578
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04da3776c8c85c220800000000000000
+      internalID: 2505563302360493376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 578
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d43ca876e8e4ce0800000000000000
+      internalID: -1419040257214296830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 578
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8675e86cc9fe3e530800000000000000
+      internalID: 3883210760348653416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 578
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa922e959bcbc5490800000000000000
+      internalID: -7756116953975871062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_17
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 578
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cd33d873565f490800000000000000
+      internalID: -7713147497535513538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_18
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 578
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce4065e0e279f200800000000000000
+      internalID: 214328767523344071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_19
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 578
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd7128e869337d10800000000000000
+      internalID: 2122102972155526588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_20
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 578
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e90262aa82ec5d50800000000000000
+      internalID: 6727501028442376675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_21
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 578
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f645bc98e860950800000000000000
+      internalID: 6414971441708822327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_22
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 578
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08109a7874ee53aa0800000000000000
+      internalID: -6181772922510048896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_23
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 578
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d302514a46b5e5d0800000000000000
+      internalID: -3033818343924431911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 482
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a9927963fb09370800000000000000
+      internalID: 8327365952193272371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 482
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae04ed422491a300800000000000000
+      internalID: 261653128420789930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 482
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53823bd4777e14b00800000000000000
+      internalID: 811183907494111285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 482
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e517a505a987050800000000000000
+      internalID: 5798554190144953942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_28
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 482
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f815ff62f38f05200800000000000000
+      internalID: 166906136333603215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_29
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 482
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f32caa4470847d00800000000000000
+      internalID: 969541056748856308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_30
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 482
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adfb42a29413d910800000000000000
+      internalID: 1860853691054816677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 482
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a149a42d84944e980800000000000000
+      internalID: -8510596818708818918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_32
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 482
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd030ac7b39cced0800000000000000
+      internalID: -2392374884463079998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_33
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 482
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98294ffee6c1f4af0800000000000000
+      internalID: -410077778269662583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_34
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 482
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80310b62e63cec50800000000000000
+      internalID: 6695787092078833804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_35
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 482
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7abb79fca04d9490800000000000000
+      internalID: -7737957473088456066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 383
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c302f23936818eb0800000000000000
+      internalID: -4719343354281589824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 383
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607c32a5dface0f30800000000000000
+      internalID: 4543792263551239942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 383
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928b8486af17428d0800000000000000
+      internalID: -2872045342050174935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_39
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 383
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810b7947bacf3d310800000000000000
+      internalID: 1428763320132284440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_40
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 383
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ba15aa0ba656290800000000000000
+      internalID: -7897789064520029430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_41
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 383
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b102c869e33728fe0800000000000000
+      internalID: -1188260639021457381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_42
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 383
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7f386065987c7e0800000000000000
+      internalID: -1745275328013273131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_43
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 383
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4620520bba977c7c0800000000000000
+      internalID: -4051135561494887836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_44
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 383
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa50f318db22c0220800000000000000
+      internalID: 2453374094322632111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_45
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 383
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffa44662d88bc3e0800000000000000
+      internalID: -2032380369587359755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_46
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 383
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f66503fdf01e130800000000000000
+      internalID: 3594171428881461058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bugs_47
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 383
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bff89d42ab54c2b0800000000000000
+      internalID: -5565222486878388298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bugs_0: -7385085746842954004
+      Bugs_1: -6068800229937506907
+      Bugs_10: -6059342234707258246
+      Bugs_11: -8654683488254825159
+      Bugs_12: -2903834119547075962
+      Bugs_13: 2505563302360493376
+      Bugs_14: -1419040257214296830
+      Bugs_15: 3883210760348653416
+      Bugs_16: -7756116953975871062
+      Bugs_17: -7713147497535513538
+      Bugs_18: 214328767523344071
+      Bugs_19: 2122102972155526588
+      Bugs_2: 6222437612026494144
+      Bugs_20: 6727501028442376675
+      Bugs_21: 6414971441708822327
+      Bugs_22: -6181772922510048896
+      Bugs_23: -3033818343924431911
+      Bugs_24: 8327365952193272371
+      Bugs_25: 261653128420789930
+      Bugs_26: 811183907494111285
+      Bugs_27: 5798554190144953942
+      Bugs_28: 166906136333603215
+      Bugs_29: 969541056748856308
+      Bugs_3: -3061388134898156023
+      Bugs_30: 1860853691054816677
+      Bugs_31: -8510596818708818918
+      Bugs_32: -2392374884463079998
+      Bugs_33: -410077778269662583
+      Bugs_34: 6695787092078833804
+      Bugs_35: -7737957473088456066
+      Bugs_36: -4719343354281589824
+      Bugs_37: 4543792263551239942
+      Bugs_38: -2872045342050174935
+      Bugs_39: 1428763320132284440
+      Bugs_4: 6351398621837459943
+      Bugs_40: -7897789064520029430
+      Bugs_41: -1188260639021457381
+      Bugs_42: -1745275328013273131
+      Bugs_43: -4051135561494887836
+      Bugs_44: 2453374094322632111
+      Bugs_45: -2032380369587359755
+      Bugs_46: 3594171428881461058
+      Bugs_47: -5565222486878388298
+      Bugs_5: 284249341607015628
+      Bugs_6: 1275260744627055720
+      Bugs_7: 1761782823767430363
+      Bugs_8: -4613869824450455376
+      Bugs_9: -1226838974335746304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
